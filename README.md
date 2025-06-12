@@ -41,8 +41,6 @@ This project presents a dynamic programming solution for an autonomous agent nav
 │   ├── create_env.py   # Script to generate the environment files
 │   ├── requirements.txt # Python dependencies
 │   └── envs/           # Directory containing environment files
-├── plot/
-│   └── ...             # Saved GIFs of the agent's trajectories
 └── report/
     └── ECE276B_Project1_Report.pdf # Project report
 ```
